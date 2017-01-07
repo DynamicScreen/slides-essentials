@@ -1,0 +1,17 @@
+{
+  "name": "dynamicscreen/slides-essentials",
+  "description": "A DynamicScreen module providing basic slides types.",
+  "license": "MIT",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "DynamicScreen",
+      "email": "bonjour@dynamicscreen.xyz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DynamicScreen\\SlidesEssentials\\": "src"
+    }
+  }
+}

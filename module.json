@@ -1,0 +1,11 @@
+{
+  "provider": "\\DynamicScreen\\SlidesEssentials\\ModuleServiceProvider",
+  "resourcesPath": "src/resources",
+  "components": {
+    "message": "Message.vue",
+    "twitter": "Twitter.vue",
+    "image": "Image.vue",
+    "qrcode": "QrCode.vue",
+    "vote": "Vote.vue"
+  }
+}
